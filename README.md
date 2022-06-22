@@ -1,6 +1,6 @@
 ## Olá eu sou Felipe Marcos!!
 
-### Sou um desenvolvedor full stack, que gosta sempre de aprender novas tecnologias e acompanhar sempre o mercado!
+### Sou desenvolvedor fullstack, que gosta sempre de aprender novas tecnologias e acompanhar as evoluções do mercado!
 
 
 <div style="display: inline_block"><br>
