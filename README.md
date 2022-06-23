@@ -6,6 +6,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Flp-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Flp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Flp-Asterisk" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmvwWfJIBmwlW9ZPJdHf_hTL-x3i-6W73PXg&usqp=CAU" />
   <img align="center" alt="Flp-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Flp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Flp-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -14,7 +15,7 @@
   <img align="center" alt="Flp-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />     
   <img align="center" alt="Flp-K8S" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
   <img align="center" alt="Flp-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img align="center" alt="Flp-Asterisk" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmvwWfJIBmwlW9ZPJdHf_hTL-x3i-6W73PXg&usqp=CAU" />
+  
 </div>
 
 ##
