@@ -28,13 +28,7 @@ Desenvolvedor Full Stack com foco em backend, automacao, integracoes e infraestr
 
 ## Contribuicoes
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flpmarcos/flpmarcos/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flpmarcos/flpmarcos/output/github-contribution-grid-snake.svg" />
-    <img alt="Animacao das contribuicoes no GitHub" src="https://raw.githubusercontent.com/flpmarcos/flpmarcos/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+![Animacao das contribuicoes no GitHub](https://raw.githubusercontent.com/flpmarcos/flpmarcos/output/github-contribution-grid-snake.gif)
 
 ## Ideia do perfil
 
