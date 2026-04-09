@@ -1,30 +1,52 @@
-# Felipe Marcos
+<h1 align="center">Felipe Marcos</h1>
 
-Desenvolvedor Full Stack com foco em backend, automacao, integracoes e infraestrutura. Gosto de transformar problemas reais em solucoes simples, estaveis e faceis de manter.
+<p align="center">
+  Desenvolvedor Full Stack focado em backend, integracoes, automacao e infraestrutura.
+</p>
+
+<p align="center">
+  Construindo solucoes simples, estaveis e faceis de manter.
+</p>
+
+<p align="center">
+  <a href="https://github.com/flpmarcos?tab=repositories">Repositorios</a> |
+  <a href="https://github.com/flpmarcos?tab=stars">Stars</a> |
+  <a href="https://github.com/flpmarcos">Perfil</a>
+</p>
 
 ## Sobre mim
 
-- Trabalho com desenvolvimento web, APIs, automacao e infraestrutura
-- Tenho interesse em cloud, DevOps, blockchain e melhoria continua
-- Uso o GitHub para estudar, compartilhar projetos e acompanhar minha evolucao
+Trabalho com desenvolvimento web, APIs, integracoes e automacao de processos. Gosto de usar tecnologia para reduzir atrito operacional, melhorar manutencao e deixar ambientes mais previsiveis.
+
+## O que voce encontra aqui
+
+- APIs e integracoes com foco em uso real
+- Automacao de rotinas e fluxos tecnicos
+- Estudos praticos em cloud, DevOps e infraestrutura
+- Projetos que misturam backend, web e operacao
 
 ## Stack principal
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+**Backend:** `PHP` `Python` `C#` `JavaScript`
 
-## GitHub Stats
+**Frontend:** `React` `HTML` `CSS`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=flpmarcos&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats de Felipe Marcos" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flpmarcos&layout=compact&langs_count=8&hide_border=true" alt="Linguagens mais usadas por Felipe Marcos" />
-</p>
+**Infra e cloud:** `Kubernetes` `Terraform`
+
+**Interesses atuais:** `Automacao` `APIs` `DevOps` `Blockchain`
+
+## Como gosto de construir
+
+- Codigo claro e facil de manter
+- Solucoes pragmaticas antes de complexidade desnecessaria
+- Automacao sempre que ela reduz retrabalho
+- Infraestrutura versionada e reproduzivel
+
+## Projetos em destaque
+
+- [`whatsapp-cloud-api`](https://github.com/flpmarcos/whatsapp-cloud-api): integracao com a API do WhatsApp Cloud para fluxos de mensageria.
+- [`terraform-flpmarcos`](https://github.com/flpmarcos/terraform-flpmarcos): exemplos e estudos com infraestrutura como codigo em cloud.
+- [`flpmarcos`](https://github.com/flpmarcos/flpmarcos): este profile README, usado como vitrine do que estudo e construo.
 
 ## Contribuicoes
 
@@ -32,4 +54,4 @@ Desenvolvedor Full Stack com foco em backend, automacao, integracoes e infraestr
 
 ## Ideia do perfil
 
-Quero manter este perfil como uma vitrine simples do que eu construo, estudo e compartilho por aqui.
+Quero manter este perfil como uma vitrine direta do meu trabalho: menos enfeite, mais clareza sobre o que eu construo, estudo e entrego.
